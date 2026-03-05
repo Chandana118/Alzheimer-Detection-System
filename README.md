@@ -64,16 +64,7 @@ Alzheimer-Detection-System
 │
 └── outputs
     └── patient_report.txt
-⚙️ Installation
-1️⃣ Clone the repository
-git clone https://github.com/yourusername/alzheimer-detection-system.git
-2️⃣ Install required libraries
-pip install pandas scikit-learn pillow
-▶️ Running the Project
-Step 1 – Train the Model
-python train_model.py
-Step 2 – Run the Application
-python GUI.py
+
 📊 Sample Output
 
 The system generates a patient diagnostic report including:
